@@ -2,7 +2,6 @@
 
 🎓 I'm a first-year B.Sc. Data Science & Analytics student  
 📍 Based in [Bangalore, Karnataka, India] cuurently, originally from [Cooch Behar, West Bengal, India] 
-
 🚀 Currently learning **Excel**, **SQL**, **R**, **Python**, and **Data Visualization with Tableau**  
 💡 Exploring real-world data projects and building my GitHub one repo at a time!
 
